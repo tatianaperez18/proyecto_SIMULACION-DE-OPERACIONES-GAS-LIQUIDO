@@ -20,15 +20,16 @@ Operacion basica de la ing quimica, este estudia la separacion de uno o vaios co
 
 * Ley de Henry
 
-Esta Ley puede aplicarse para aquellas disoluciones liquidas no ideales, segun la cual la concentracion de un componente es proporcional a su concentracion en la otra fase, es decir:
+Esta Ley puede aplicarse para aquellas disoluciones liquidas no ideales.
 
-p = Hc  p = Hx
+p = Hc  
 
 
 * variables utilizadas
 
 | Variable | Descripcion |
 |---|---|
-| H | constnte ley de Henry (atm/ (kg mol/m3)) |
-| KG | Coeficiente de transferencia convectiva de masa en la fase gaseosa ( m/s*atm)|
+| H | constnte ley de Henry |
+| x | Concentracion del gas en el liquido|
+| p | Presion parcial del gas|
 
