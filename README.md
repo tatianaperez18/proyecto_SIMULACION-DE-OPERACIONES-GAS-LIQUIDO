@@ -9,20 +9,26 @@ Para este programa nos basamos en la transferencia de masa por metodo de equilib
 * absorcion de gases
 
 Operacion basica de la ing quimica, este estudia la separacion de uno o vaios componentes de una mezcla gaseosa por disolucion en un liquido.
-- se efectua en el transporte de materia desde la fase gaseosa(soluble) a la fase liquida(absorbente).
+
+• se efectua en el transporte de materia desde la fase gaseosa(soluble) a la fase liquida(absorbente).
 
 * De que depende la solubilidad del gas en el liquido?
-- de la natuleza de ambos componentes
-- de la temperatura
-- de la presion parcial
-- del gas en la fase gaseosa
-- de la concentracion del gas disuelto en el liquido
+
+• de la natuleza de ambos componentes
+
+• de la temperatura
+
+• de la presion parcial
+
+• del gas en la fase gaseosa
+
+• de la concentracion del gas disuelto en el liquido
 
 * Ley de Henry
 
 Esta Ley puede aplicarse para aquellas disoluciones liquidas no ideales.
 
-p = Hc  
+p = Hx  
 
 
 * variables utilizadas
